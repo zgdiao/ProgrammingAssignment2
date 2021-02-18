@@ -4,8 +4,8 @@
 ## it returns a list of functions:
 ## set:         set the value of the matrix
 ## get:         get the value of the matrix
-## setinverse:  set the value of the inverse
-## getinverse:  get the value of the inverse
+## setInverse:  set the value of the inverse
+## getInverse:  get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
